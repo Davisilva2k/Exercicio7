@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(rgb(109, 94, 94),rgb(161, 159, 159))
+}
+h1{
+    color: yellow
+    
+}
+li{
+    color: red;
+    font-size: 15px;
+    margin: -19;
+}
+a:hover{
+    color: rgb(55, 226, 132);
+    margin: -19;
+}
+h2{
+    color: yellow;
+    margin: -19;
+}
+h3{
+    color: yellow;
+    margin: -19;
+}
+h4{
+    color: yellow;
+    margin: -19;
+}
+h5{
+    color: yellow;
+    font-size: 20px;
+    margin: -19;
+}
+p{
+    font-size: 20px;
+    color: rgb(0, 0, 0) 
+}
+a{
+    color: yellowgreen;
+}
+
